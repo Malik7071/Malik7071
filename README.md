@@ -22,6 +22,7 @@ Personal Website: https://arslan-malik.com/
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="epressjs" src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge&logo=express.js&logoColor=black" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=#023430" />
+<br>
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%2361DAFB" />
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html&logoColor=%2361DAFB" />
