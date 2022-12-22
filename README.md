@@ -4,7 +4,8 @@
 - :revolving_hearts:️ I’m looking to collaborate/contribute on complex projects. If you need any help then please you can contact me.
 - :mailbox: How to reach me at rsaqib2034@gmail.com -->
 ### Hello World :wave:
-I am a fullstack software engineer working with Html/CSS, Php/Laravel, MySql, Yii2, ReactJS, Redux, NodeJS, ExpressJS, MongoDB and AWS Serverless Technologies.
+I am a fullstack software engineer working with Html/CSS, Php/Laravel, MySql, Yii2, ReactJS, Redux, NodeJS, ExpressJS, MongoDB and AWS Serverless Technologies.<br>
+
 Personal Website: https://arslan-malik.com/
 <br>
 ![](https://komarev.com/ghpvc/?username=saqib-github)
