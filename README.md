@@ -26,6 +26,8 @@ Personal Website: https://arslan-malik.com/
 <br>
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%2361DAFB" />
+<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html&logoColor=%2361DAFB" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2320232a.svg?&style=for-the-badge&logo=css&logoColor=%2361DAFB" />
 <br>
 <br>
 <br>
