@@ -8,7 +8,7 @@ I am a fullstack software engineer working with Html/CSS, Php/Laravel, MySql, Yi
 
 Personal Website: https://arslan-malik.com/
 <br>
-![](https://komarev.com/ghpvc/?username=saqib-github)
+![](https://komarev.com/ghpvc/?username=Malik7071)
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saqib-javed-316511114)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16339600/saqib)
