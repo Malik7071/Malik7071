@@ -28,13 +28,9 @@ Personal Website: https://arslan-malik.com/
 <br>
 <br>
 <br>
-## Stackoverflow Statistics
-[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/16339600/saqib)
-<br>
-<br>
-<br>
+
 ## Github Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=saqib-github&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Malik7071&theme=dark">
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Create an Express Boilerplate with TypeScript](https://javascript.plainenglish.io/create-an-express-boilerplate-with-typescript-810eb6c29196?source=rss-fe04a352a811------2)
