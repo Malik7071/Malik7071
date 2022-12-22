@@ -15,11 +15,11 @@ Personal Website: https://arslan-malik.com/
 <br>
 <br>
 ## Expertise
-<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=%023430" />
-<img align="left" alt="laravel" src="https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=%023430" />
-<img align="left" alt="yii2" src="https://img.shields.io/badge/yii2%20-%2320232a.svg?&style=for-the-badge&logo=yii2&logoColor=%023430" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%023430" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%023430" />
+<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=%023430" />
+<img align="left" alt="laravel" src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=%023430" />
+<img align="left" alt="yii2" src="https://img.shields.io/badge/yii2%20-%2343853D.svg?&style=for-the-badge&logo=yii2&logoColor=%023430" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%2343853D.svg?&style=for-the-badge&logo=mysql&logoColor=%023430" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=%023430" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=023430" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=#023430" /><br><br>
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%2343853D.svg?&style=for-the-badge&logo=Express.js&logoColor=#023430" />
