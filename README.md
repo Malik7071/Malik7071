@@ -4,7 +4,13 @@
 - :revolving_hearts:️ I’m looking to collaborate/contribute on complex projects. If you need any help then please you can contact me.
 - :mailbox: How to reach me at rsaqib2034@gmail.com -->
 ### Hello World :wave:
-I am a fullstack software engineer working with Html/CSS, Php/Laravel, MySql, Yii2, ReactJS, Redux, NodeJS, ExpressJS, MongoDB and AWS Serverless Technologies.<br>
+As a highly motivated and analytical Software Engineer, I bring to the table over 4 years of hands-on experience in the dynamic realm of web application development. My expertise lies in the MERN stack, PHP/Laravel, and JavaScript, demonstrating a versatile skill set that spans across the entire Software Development Life Cycle (SDLC). Throughout my career, I have successfully navigated all stages of project development, from the inception of ideas to the implementation of complex scenarios.
+
+In the MERN stack, I have honed my skills in MongoDB, Express.js, React.js, and Node.js, ensuring robust and scalable solutions. My proficiency in PHP, particularly with the Laravel framework, has empowered me to create efficient and secure web applications. JavaScript, being a cornerstone of modern web development, is a language I am adept at, enabling me to craft interactive and user-friendly interfaces.
+
+My commitment extends beyond just coding; I actively engage in comprehensive testing procedures to guarantee the delivery of high-quality software. I pride myself on my ability to tackle challenges head-on, employing problem-solving strategies that contribute to the seamless deployment of projects. With a keen eye for detail and a passion for staying abreast of industry trends, I am dedicated to producing innovative and cutting-edge solutions.
+
+Having participated in numerous projects, I have cultivated a deep understanding of diverse business requirements. This exposure has equipped me with the adaptability needed to thrive in dynamic environments, ensuring that the solutions I deliver align perfectly with the unique needs of each project. In essence, I am not just a Software Engineer; I am a proactive and results-driven professional committed to transforming ideas into functional and impactful web applications. Explore my portfolio to witness firsthand the intersection of my technical prowess and creative problem-solving abilities.<br>
 
 Personal Website: https://arslan-malik.com/
 <br><br>
