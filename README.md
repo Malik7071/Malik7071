@@ -14,26 +14,7 @@ Having participated in numerous projects, I have cultivated a deep understanding
 
 Personal Website: https://arslan-malik.com/
 <br><br>
-![](https://komarev.com/ghpvc/?username=Malik7071)
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-arslan-malik-167385134/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ARSLANMALIK999/)
-<br>
-<br>
-## Expertise
-<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=%023430" />
-<img align="left" alt="laravel" src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=%023430" />
-<img align="left" alt="yii2" src="https://img.shields.io/badge/yii2%20-%2343853D.svg?&style=for-the-badge&logo=yii2&logoColor=%023430" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%2343853D.svg?&style=for-the-badge&logo=mysql&logoColor=%023430" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=%023430" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=023430" />
-<img align="left" alt="mongodb" src="https://img.shields.io/badge/mongodb%20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=#023430" /><br><br>
-<img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%2343853D.svg?&style=for-the-badge&logo=Express.js&logoColor=#023430" />
 
-<br>
-<br>
-<br>
-<br>
 
 ## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Malik7071&theme=dark">
