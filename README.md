@@ -12,7 +12,7 @@ My commitment extends beyond just coding; I actively engage in comprehensive tes
 
 Having participated in numerous projects, I have cultivated a deep understanding of diverse business requirements. This exposure has equipped me with the adaptability needed to thrive in dynamic environments, ensuring that the solutions I deliver align perfectly with the unique needs of each project. In essence, I am not just a Software Engineer; I am a proactive and results-driven professional committed to transforming ideas into functional and impactful web applications. Explore my portfolio to witness firsthand the intersection of my technical prowess and creative problem-solving abilities.<br>
 
-Personal Website: https://arslan-malik.com
+Personal Website: www.arslan-malik.com
 <br><br>
 
 
