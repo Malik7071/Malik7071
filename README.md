@@ -1,8 +1,9 @@
-<!-- - :wave: Hi, I’m @saqib-github
-- :eyes: I’m interested in developing interactive applications.
-- :seedling: I’m currently working on VueJs, ReactJs and Nodejs.
-- :revolving_hearts:️ I’m looking to collaborate/contribute on complex projects. If you need any help then please you can contact me.
-- :mailbox: How to reach me at rsaqib2034@gmail.com -->
+<p align="left"> <img src="https://github.com/Malik7071/Malik7071/blob/main/Github_Header.jpg?raw=true" alt="arslanmalik" /> </p>
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Malik7071&label=Profile%20views&color=1f8bfa&style=flat" alt="arslanmalik" /> 
+   <img src="https://img.shields.io/badge/Rating-★★★★★-brightgreen" alt="5" /> 
+</p>
+
 ### Hello World :wave:
 As a highly motivated and analytical Software Engineer, I bring to the table over 5 years of hands-on experience in the dynamic realm of web application development. My expertise lies in the MERN stack, PHP/Laravel, and JavaScript, demonstrating a versatile skill set that spans across the entire Software Development Life Cycle (SDLC). Throughout my career, I have successfully navigated all stages of project development, from the inception of ideas to the implementation of complex scenarios.
 
@@ -11,42 +12,35 @@ In the MERN stack, I have honed my skills in MongoDB, Express.js, React.js, and 
 My commitment extends beyond just coding; I actively engage in comprehensive testing procedures to guarantee the delivery of high-quality software. I pride myself on my ability to tackle challenges head-on, employing problem-solving strategies that contribute to the seamless deployment of projects. With a keen eye for detail and a passion for staying abreast of industry trends, I am dedicated to producing innovative and cutting-edge solutions.
 
 Having participated in numerous projects, I have cultivated a deep understanding of diverse business requirements. This exposure has equipped me with the adaptability needed to thrive in dynamic environments, ensuring that the solutions I deliver align perfectly with the unique needs of each project. In essence, I am not just a Software Engineer; I am a proactive and results-driven professional committed to transforming ideas into functional and impactful web applications. Explore my portfolio to witness firsthand the intersection of my technical prowess and creative problem-solving abilities.<br>
+<br>
+- 📫 How to reach me www.arslan-malik.com
+<h1></h1>
 
-Personal Website: www.arslan-malik.com
-<br><br>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Github_Statistics-black?style=for-the-badge&logo=github" alt="5" /> 
+</h1>
 
+<p>
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Malik7071&theme=github-compact&bg_color=243b55)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malik7071&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="Malik7071" width="49%"/>
+   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Malik7071&theme=dark&background=000000" alt="Malik7071" width="45%"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Malik7071&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="Malik7071" width="45%" /> 
+   <br/>
+   <img align="right" src="https://readme-jokes.vercel.app/api" alt="Malik7071" width="45%" /> 
+</p> 
 
-## Github Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Malik7071&theme=dark">
-<!-- ## Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Create an Express Boilerplate with TypeScript](https://javascript.plainenglish.io/create-an-express-boilerplate-with-typescript-810eb6c29196?source=rss-fe04a352a811------2)
-- [How to Set Up Linter &amp; Formatter for Node.js](https://javascript.plainenglish.io/how-to-set-up-linter-formatter-for-node-js-d6b34c0c8be5?source=rss-fe04a352a811------2)
-- [Build an Audio and Video Recorder in React](https://javascript.plainenglish.io/build-an-audio-and-video-recorder-in-react-a452ab6c1ce6?source=rss-fe04a352a811------2)
-- [How to Perform Google Authentication with React](https://javascript.plainenglish.io/how-to-perform-google-authentication-with-react-7d43fb0e4922?source=rss-fe04a352a811------2)
-- [How to Convert an Audio File into Video in NodeJS](https://enlear.academy/how-to-convert-an-audio-file-into-video-in-nodejs-301b6a7486eb?source=rss-fe04a352a811------2) -->
-<!-- BLOG-POST-LIST:END -->
-<!-- ## Stackoverflow Statistics
-[![My StackOverflow Stats](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5379437)](https://stackoverflow.com/users/5379437/mohammad-faisal)
-## Github Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=saqib-github&theme=dark"> -->
-<!--
-**Mohammad-Faisal/Mohammad-Faisal** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" alt="medium" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-[<img align="left" alt="medium" src="hhttps://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][LinekdIN]
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][StackOverflow]
-Here are some ideas to get you started:
-- :telescope: I’m currently working on ...
-- :seedling: I’m currently learning ...
-- :dancers: I’m looking to collaborate on ...
-- :thinking_face: I’m looking for help with ...
-- :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :smile: Pronouns: ...
-- :zap: Fun fact: ...
--->
-<!---
-Saqib-GitHub/Saqib-GitHub is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr width="100%"  style="display:block; height:0.01rem!important">
+<br/>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Language_&_Tools-orange?style=for-the-badge&logo=tmux&logoColor=white" alt="5" /> 
+</h1>
+
+|  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 	|  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 	|  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 	|  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 	|   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a> 	|    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>	|  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> 	|    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a>	|   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  	|   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/> </a>  	|
+|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+| <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>  	|  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="60" height="60"/> </a> 	|   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> </a>  	|   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 	|   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 	| <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 	|   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> 	|   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>  	|  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>  	| <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>  	| 
+| <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>  	|   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a> 	|  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> 	|   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 	|   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a> 	|   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="60" height="60"/> </a>  	|  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/> </a> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode"  width="60" height="60" /> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="vscode"  width="60" height="60" />  	|
+|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="vscode"  width="60" height="60" />  	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="vscode"  width="60" height="60" />  	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="vscode"  width="60" height="60" />   |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="vscode"  width="60" height="60" />   |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="vscode"  width="60" height="60" />   |
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="vscode"  width="60" height="60" />	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="vscode"  width="60" height="60" /> 	|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://forge.laravel.com/social-share.png" alt="vscode"  width="60" height="60" />	|  <img src="https://ri32.files.wordpress.com/2021/03/ri32-logo-laragon.png" alt="vscode"  width="60" height="60" /> 	|  <img src="https://www.primetek.com.tr/img/primevue.jpg" alt="vscode"  width="60" height="60" /> 	|   <img src="https://casl.js.org/v6/51b9cc103e05f66c.png" alt="vscode"  width="60" height="60" />   |
+
+<h1></h1>
