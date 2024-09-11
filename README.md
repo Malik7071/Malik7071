@@ -19,13 +19,3 @@ Having participated in numerous projects, I have cultivated a deep understanding
 <h1 align="center">
   <img src="https://img.shields.io/badge/Github_Statistics-black?style=for-the-badge&logo=github" alt="5" /> 
 </h1>
-
-<p>
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Malik7071&theme=github-compact&bg_color=243b55)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malik7071&show_icons=true&locale=en&layout=donut-vertical&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="Malik7071" width="49%"/>
-   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Malik7071&theme=dark&background=000000" alt="Malik7071" width="45%"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Malik7071&bg_color=30,141e30,243b55&title_color=fff&text_color=fff" alt="Malik7071" width="45%" /> 
-   <br/>
-   <img align="right" src="https://readme-jokes.vercel.app/api" alt="Malik7071" width="45%" /> 
-</p> 
