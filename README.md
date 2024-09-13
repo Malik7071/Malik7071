@@ -5,7 +5,7 @@
 </p>
 
 ### Hello World :wave:
-As a highly motivated and analytical Software Engineer, I bring to the table over 5 years of hands-on experience in the dynamic realm of web application development. My expertise lies in the MERN stack, PHP/Laravel, and JavaScript, demonstrating a versatile skill set that spans across the entire Software Development Life Cycle (SDLC). Throughout my career, I have successfully navigated all stages of project development, from the inception of ideas into the implementation of complex scenarios.
+As a highly motivated and analytical Software Engineer, I bring to the table over 5 years of hands-on experience in the dynamic realm of web application development. My expertise lies in the MERN stack, PHP/Laravel, and JavaScript, demonstrating a versatile skill set that spans across the entire Software Development Life Cycle (SDLC). Throughout my career, I have successfully navigated all stages of project development, from the inception of ideas to the implementation of complex scenarios.
 
 In the MERN stack, I have honed my skills in MongoDB, Express.js, React.js, and Node.js, ensuring robust and scalable solutions. My proficiency in PHP, particularly with the Laravel framework, has empowered me to create efficient and secure web applications. JavaScript, being a cornerstone of modern web development, is a language I am adept at, enabling me to craft interactive and user-friendly interfaces.
 
